@@ -1,0 +1,19 @@
+{
+  "name": "script-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "uploadScript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7"
+  },
+  "type": "module"
+}
